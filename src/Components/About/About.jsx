@@ -14,7 +14,7 @@ const About = () =>
             </div>
             <div className="about-sec">
                 <div className="about-left">
-                    <img src='https://github.com/tirth-swami/Tirth/blob/main/profile_img.jpg' alt="" />
+                    <img src=./profile_img.jpg alt="" />
                 </div>
                 <div className="about-right">
                     <div className="about-para">
