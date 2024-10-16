@@ -14,7 +14,7 @@ const About = () =>
             </div>
             <div className="about-sec">
                 <div className="about-left">
-                    <img src="https://media.licdn.com/dms/image/v2/D5603AQGTifs1ZJ8i4w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1678429853788?e=1734566400&v=beta&t=76pB1rY6dRW5hSi_6RyvkFw489w9VM6qDXMxtGLGfag" alt="" />
+                    <img src="https://media.licdn.com/dms/image/v2/D4D03AQHGMvU1786tfg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1729064305906?e=1734566400&v=beta&t=JcTa_trm9_EzThXIT-Iocx2ts7dQxPobGJQ5vKH_VGs" alt="" />
                 </div>
                 <div className="about-right">
                     <div className="about-para">
