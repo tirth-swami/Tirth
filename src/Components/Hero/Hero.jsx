@@ -8,7 +8,7 @@ const Hero = () =>
       return (
         <div>
           <div  id='home' className="hero">
-            <img src={profile_img} alt="profile" />
+           
             <h1><span>I'm Tirth Swami,</span>Frontend developer</h1>
             <p>I am a Front-End Developer creating dynamic and responsive web applications. Proficient in HTML, CSS, and
             JavaScript and basic React</p>
