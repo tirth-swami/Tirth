@@ -59,7 +59,7 @@ const Contact = () =>
                     </div>
                 </div>
                 <form onSubmit={onSubmit} className="contact-right">
-                    <label htmlFor="">Ypur name</label>
+                    <label htmlFor="">Your name</label>
                     <input type="text" placeholder="Enter your name" name='name' />
                     <label htmlFor="">Your Email</label>
                     <input type="email" placeholder="Enter your email" name='email'/>
