@@ -66,9 +66,7 @@ transition: 0.5s;
         left: 290px;
         width: 30px;
     }
-    .nav-mob-close{
-        display: none;
-    }
+    
     .nav-menu{
         position: fixed;
         flex-direction: column;
